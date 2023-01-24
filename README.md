@@ -3,8 +3,6 @@ This is my version of the HTML & CSS study plan based on my special experience i
 
 At the very beginning of the study of HTML and CSS in the first lesson, it will be a great idea to show students simple, minimalistic but _**beautiful**_ examples of sites with an explanation that HTML is content and CSS is style.
 
-<a href="https://github.com/DenisMatsenko/HTML-CSS-study-plan/blob/main/Examples.md">Here</a> is some ideas!  
-
 <br>
 <br>
 
@@ -31,6 +29,8 @@ At this stage, the main thing is to _**sharpen the ability**_ to compose complex
 ### 💡 Project examples
  - _**Stores**_ - sites with a top bar and products.
  - _**Info pages**_ - sites with top menus, images, texts and tables.
+ 
+<a href="https://github.com/DenisMatsenko/HTML-CSS-study-plan/blob/main/Examples.md">Here</a> is some ideas!  
 
 <br>
 
@@ -43,6 +43,8 @@ The purpose of this stage is show way to study CSS in more depth.
 
 ### 💡 Project examples
  - _**Portfolio with hosting**_ - own portfolio with webs.
+ 
+<a href="https://github.com/DenisMatsenko/HTML-CSS-study-plan/blob/main/Examples.md">Here</a> is some ideas!  
 
 <br>
 <br>
