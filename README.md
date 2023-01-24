@@ -3,6 +3,8 @@ This is my version of the HTML & CSS study plan based on my special experience i
 
 At the very beginning of the study of HTML and CSS in the first lesson, it will be a great idea to show students simple, minimalistic but _**beautiful**_ examples of sites with an explanation that HTML is content and CSS is style.
 
+<a href="https://github.com/DenisMatsenko/HTML-CSS-study-plan/blob/main/Examples.md">Here</a> is some ideas!  
+
 <br>
 <br>
 
@@ -50,4 +52,5 @@ The purpose of this stage is show way to study CSS in more depth.
  - The more practice the better.
  - Target popular topics (e.g. Make stores)
  - Always make everything _**beautiful**_ - is the **most important thing**, because only in this way will students feel that they are doing something cool and be motivated, and in the end we learn to make a visual, and a visual should be beautiful !!!
+
 
