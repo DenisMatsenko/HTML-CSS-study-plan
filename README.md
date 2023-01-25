@@ -3,6 +3,8 @@ This is my version of the HTML & CSS study plan based on my special experience i
 
 At the very beginning of the study of HTML and CSS in the first lesson, it will be a great idea to show students simple, minimalistic but _**beautiful**_ examples of sites with an explanation that HTML is content and CSS is style.
 
+The schedule of each lesson is <a href="https://github.com/DenisMatsenko/HTML-CSS-study-plan/blob/main/Schedule.md">here</a>.
+
 <br>
 <br>
 
